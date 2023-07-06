@@ -1,0 +1,9 @@
+# using below command we can install opcua throuh terminal
+pip install opcua
+
+# In jetson sometime throw errors then try as below
+sudo python3.8 -m pip install lxml==3.6.0# in my case i am using python3.8 version
+
+sudo pip3 install lxml
+
+sudo pip3 install opcua
